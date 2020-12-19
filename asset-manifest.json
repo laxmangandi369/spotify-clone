@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spotify-clone/static/css/main.ecf693d5.chunk.css",
+    "main.js": "/spotify-clone/static/js/main.a6dff1ac.chunk.js",
+    "main.js.map": "/spotify-clone/static/js/main.a6dff1ac.chunk.js.map",
+    "runtime-main.js": "/spotify-clone/static/js/runtime-main.7431b730.js",
+    "runtime-main.js.map": "/spotify-clone/static/js/runtime-main.7431b730.js.map",
+    "static/js/2.f5b0b754.chunk.js": "/spotify-clone/static/js/2.f5b0b754.chunk.js",
+    "static/js/2.f5b0b754.chunk.js.map": "/spotify-clone/static/js/2.f5b0b754.chunk.js.map",
+    "static/js/3.8d140929.chunk.js": "/spotify-clone/static/js/3.8d140929.chunk.js",
+    "static/js/3.8d140929.chunk.js.map": "/spotify-clone/static/js/3.8d140929.chunk.js.map",
+    "index.html": "/spotify-clone/index.html",
+    "static/css/main.ecf693d5.chunk.css.map": "/spotify-clone/static/css/main.ecf693d5.chunk.css.map",
+    "static/js/2.f5b0b754.chunk.js.LICENSE.txt": "/spotify-clone/static/js/2.f5b0b754.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7431b730.js",
+    "static/js/2.f5b0b754.chunk.js",
+    "static/css/main.ecf693d5.chunk.css",
+    "static/js/main.a6dff1ac.chunk.js"
+  ]
+}
